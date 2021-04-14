@@ -6,6 +6,7 @@ function App() {
     <Fragment>
       <h1>Ejercicio</h1>
       <CrudApp />
+      <hr />
     </Fragment>
   );
 }
