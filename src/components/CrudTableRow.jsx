@@ -1,6 +1,6 @@
 import React from 'react'
 
-const CrudTableRow = ({el}) => {
+const CrudTableRow = ({ el }) => {
   return (
     <div>
       <tr>
