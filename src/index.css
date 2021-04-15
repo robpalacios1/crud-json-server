@@ -55,9 +55,13 @@ table {
   border-collapse: collapse;
   width: 100%;
 }
-th,
+
+th {
+  display: inline-flex;
+  margin: 0 5px;
+}
 td {
-  text-align: left;
+  text-align: center;
   padding: 0.5rem;
   border-bottom: thin solid #dedede;
 }
